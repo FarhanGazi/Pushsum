@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pushsum</string>
+    <string name="today_layer">Today\'s activity</string>
+    <string name="inftxt">Push ups</string>
+    <string name="push_layer">done</string>
+    <string name="to_do_layer">to be done</string>
+    <string name="logo">Pushsum ©</string>
+    <string name="img_descriptin">Image</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#0c196c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#f6f8f9</color>
+    <color name="colorNotDone">#b00020</color>
+    <color name="colorExtra">#FFDE03</color>
+    <color name="colorDone">#2e7d32</color>
+    <color name="colorBackgroundWork">#C5E1A5</color>
+    <color name="colorBackgroundStatistics">#e3f2fd</color>
+    <color name="colorSetWork">#ffecb3</color>
+    <color name="colorCalories">#dfc119</color>
+    <color name="colorTransparentWhite">#cccccc</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorPosition">#1A237E</color>
+    <color name="colorNext">#a5d6a7</color>
+    <color name="colorPrec">#FFCC80</color>
+</resources>
