@@ -43,9 +43,7 @@ public class HomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-        /**
-         *
-         */
+
         image_info = (ImageView) findViewById(R.id.image_info);
         image_info.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -55,9 +53,7 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-        /**
-         *
-         */
+
         card_view_work = (CardView) findViewById(R.id.card_view_work);
         card_view_work.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -67,9 +63,7 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-        /**
-         *
-         */
+
         card_view_set_work = (CardView) findViewById(R.id.card_view_setWork);
         card_view_set_work.setOnClickListener(new View.OnClickListener() {
             @Override
